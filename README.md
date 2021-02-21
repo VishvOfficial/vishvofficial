@@ -22,9 +22,15 @@
 
 **📫 Wanna Reach Me ?**
 
-[![GMail Badge](https://img.shields.io/badge/Gmail-MailMe-informational?style=flat&logo=gmail&logoColor=white&color=BB001B)](mailto:to.vishvpatel@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vishvpatel/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-PingMe-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/VishvOfficial)
+<a href="mailto:vishvpatel@engineer.com">
+  <img src="https://img.shields.io/badge/Gmail-Mail%20Me-informational?style=flat&logo=gmail&logoColor=white&color=BB001B"/>
+</a>
+<a href="https://www.linkedin.com/in/vishvpatel/">
+  <img src="https://img.shields.io/badge/LinkedIn-Add%20Me-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8"/>
+</a>
+<a href="https://twitter.com/VishvOfficial">
+  <img src="https://img.shields.io/badge/Twitter-DM%20Me-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1"/>
+</a>
 
 **Visitor Count:**
 
