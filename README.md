@@ -15,7 +15,7 @@
 
 * A Search Engine That Doesn't Mislead Users.
 
-* Web Interface that shows start & end time of [Brahmamuhurtha](https://en.wikipedia.org/wiki/Brahmamuhurtha).
+* ~Web Interface that shows start & end time of [Brahmamuhurtha](https://en.wikipedia.org/wiki/Brahmamuhurtha).~ (✔) (Check it out [Here](https://vishvpatel.in/brahmamuhurtha))
 
 * Easy to Use (Linux/UNIX/Windows) Commands Generator For Normal Users.  
 
